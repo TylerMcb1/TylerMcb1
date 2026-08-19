@@ -1,5 +1,5 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on https://github.com/TylerMcb1/lake-powell-database
-- 🌱 I’m currently learning React.js, Node.js, and MongoDB
-- 📫 How to reach me: tylermcbride@uchicago.edu
+- 🔭 I’m currently working on TBD
+- 🌱 I’m currently learning TBD
+- 📫 How to reach me: tylermcb0@gmail.com
